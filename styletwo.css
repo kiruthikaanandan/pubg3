@@ -1,0 +1,29 @@
+body { 
+  
+  background: url(five.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+#one
+{
+	font-style:italic;
+	background:white;
+	width:150px;
+	length:300px;
+}
+#two
+{
+	float:right;
+	width:290px;
+	height:200px;
+	
+}
+.button
+{
+	
+	background-color: #555555;
+	padding:12px 28px;
+}
